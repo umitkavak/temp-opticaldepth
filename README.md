@@ -1,1 +1,1 @@
-This code helps to fit Herschel PACS and SPIRE fluxes using modified blackbody function, to plot SEDs and the final dust temperature and optical depth at 160 micron maps.
+This code helps to fit Herschel PACS and SPIRE fluxes (in cgs units) using modified blackbody function per pixel, to plot SEDs and the final dust temperature and optical depth at 160 micron maps. The code reads map size from the reference FITS header.
